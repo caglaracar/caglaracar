@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caglaracar" alt="caglaracar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@__gilfoyle" target="blank"><img src="https://img.shields.io/twitter/follow/@__gilfoyle?logo=twitter&style=for-the-badge" alt="@__gilfoyle" /></a> </p>
+
 
 - 🌱 I’m currently learning **SPRING, ANDROID,Asp.net Core**
 
