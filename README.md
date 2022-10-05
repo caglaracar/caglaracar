@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@__gilfoyle" target="blank"><img src="https://img.shields.io/twitter/follow/@__gilfoyle?logo=twitter&style=for-the-badge" alt="@__gilfoyle" /></a> </p>
 
-- 🌱 I’m currently learning **SPRING, ANDROID**
+- 🌱 I’m currently learning **SPRING, ANDROID,Asp.net Core**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA,C#**
 
 - 📫 How to reach me **caglarracar@gmail.com**
 
