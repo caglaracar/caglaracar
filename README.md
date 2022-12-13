@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SPRING, ANDROID,Asp.net Core**
 
-- 💬 Ask me about **JAVA,C#**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **caglarracar@gmail.com**
 
