@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sami Çağlar Acar</h1>
-<h3 align="center">Backend DEVELOPER from TURKEY</h3>
+<h3 align="center">Front-End DEVELOPER from TURKEY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caglaracar&label=Profile%20views&color=0e75b6&style=flat" alt="caglaracar" /> </p>
 
 
 
-- 🌱 I’m currently learning **Asp.Net CORE**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **caglarracar@gmail.com**
 
