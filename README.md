@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Vue,Laravel**
 
 - 📫 How to reach me **caglarracar@gmail.com**
 
